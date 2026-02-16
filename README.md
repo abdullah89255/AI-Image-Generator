@@ -294,3 +294,80 @@ Potential additions:
 - More providers (Midjourney API when available)
 - Image variations and editing
 - Prompt templates library
+Here are some ready-to-use prompts to animate images (for tools like Runway, Pika, Kaiber, LeiaPix, or AnimateDiff). You can copy and adjust based on your image style.
+
+---
+
+## 🎬 General Image Animation Prompts
+
+### 1️⃣ Cinematic Motion Prompt
+
+```
+Add smooth cinematic camera movement, subtle parallax depth, gentle lighting changes, realistic motion, soft wind effect, ultra realistic animation, 4k, cinematic depth of field, natural movement
+```
+
+### 2️⃣ Slow Zoom + Parallax
+
+```
+Create a slow zoom-in camera movement with parallax depth effect, subtle background motion, smooth transitions, cinematic lighting, high quality realistic animation
+```
+
+### 3️⃣ Dramatic Motion Prompt
+
+```
+Animate with dramatic lighting, moving clouds, dynamic camera pan, realistic motion blur, cinematic atmosphere, ultra detailed, movie scene style
+```
+
+### 4️⃣ Fantasy Style Animation
+
+```
+Add magical glowing particles, floating dust, gentle wind movement, soft cinematic motion, fantasy atmosphere, smooth animation, dreamy lighting
+```
+
+### 5️⃣ Realistic Character Animation
+
+```
+Make the character slightly breathe, natural eye blink, soft hair movement, subtle body motion, realistic facial animation, smooth cinematic motion
+```
+
+---
+
+## 🌆 Scene-Based Prompts
+
+### 🌃 City / Background Image
+
+```
+Animate neon lights flickering, moving cars, slow camera pan, light reflections, cinematic night atmosphere, ultra realistic motion
+```
+
+### 🌿 Nature / Landscape Image
+
+```
+Add flowing water motion, moving clouds, wind blowing trees, birds flying, soft camera movement, peaceful cinematic animation
+```
+
+### 🧑 Portrait Animation Prompt
+
+```
+Subtle breathing motion, natural blinking eyes, slight head movement, soft hair movement, cinematic lighting, realistic animation
+```
+
+---
+
+## ⚡ Advanced Professional Prompt
+
+```
+Ultra smooth cinematic animation, parallax depth, dynamic lighting changes, realistic motion blur, slow camera dolly movement, high detail, 4k, film look
+```
+
+---
+
+## 🎥 Short Loop Animation Prompt
+
+```
+Create a seamless loop animation, subtle motion, smooth camera movement, natural environment effects, high quality cinematic loop
+```
+
+---
+
+
